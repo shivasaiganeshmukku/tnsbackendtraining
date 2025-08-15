@@ -1,8 +1,3 @@
-
-public class Sample {
-	public static void main (String arg[]) {
-		System.out.println("Hello worlld");
-		
-	}
-
+public class Sample{
+	String sai = "Hello world";
 }
